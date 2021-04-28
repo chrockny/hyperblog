@@ -11,3 +11,14 @@ body{
     margin:0 auto;
     border:1px solid rgb(199, 149, 149);
 }
+.Cabecera{
+    background-color:red;
+    padding:20px;
+    -webkit-box-shadow: 4px 2px 33px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 2px 33px 2px rgba(0,0,0,0.75);
+    box-shadow: 4px 2px 33px 2px rgba(0,0,0,0.75);
+}
+.Cabecera__title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:yellow;
+}
