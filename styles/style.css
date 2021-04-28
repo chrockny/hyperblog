@@ -1,8 +1,4 @@
-body{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color:rgb(0, 0, 0)
-}
+
 
 .container{
     width:70%;
@@ -10,4 +6,12 @@ body{
     text-align:left;
     margin:0 auto;
     border:1px solid rgb(199, 149, 149);
+    color:#000;
+
+}
+
+footer{
+    color:blueviolet;
+    text-align:center;
+
 }
