@@ -11,3 +11,18 @@ body{
     margin:0 auto;
     border:1px solid rgb(199, 149, 149);
 }
+.form__email{
+    background-color:lightcoral;
+    padding:10px;
+    justify-content: center;
+    display:block;
+    margin:0 auto;
+
+}
+.form__email input {
+    display:block;
+    margin:0 auto;
+    padding:2px;
+    border-radius:2%;
+    margin-top:10px;
+}
