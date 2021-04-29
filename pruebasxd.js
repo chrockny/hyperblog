@@ -45,3 +45,5 @@ function permitirAcceso(persona){
         console.log("Denegado niño pendejo")
     }
 }
+
+//Rockny programador negro
