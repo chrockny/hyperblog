@@ -1,9 +1,1 @@
-Hola
-me llamo Rockny Chuquichanca y soy de peru
-
-
-y este es otro cambio al archivo 
-de Rockny en Git Hub
-muchisimas gracias.
-
-GIT DE MIERDA
+Hoy dia es 30 de abril del 2021 
